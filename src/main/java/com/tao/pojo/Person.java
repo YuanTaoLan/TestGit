@@ -7,6 +7,7 @@ public class Person {
 	
 	public void eat() {
 		System.out.println("人正在恰饭。。。通过TestGit02修改的");
+		System.out.println("人正在恰饭。。。通过TestGit修改的");
 	};
 
 }
